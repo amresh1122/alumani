@@ -1,0 +1,36 @@
+body{
+    height: 100%;
+    margin: 0;
+	font-family: Arial, serif;
+	color: white;
+}
+
+table{
+	width:80%;
+}
+
+table,th,td{
+	border-collapse: separate;
+	border-spacing: 15px;
+	text-align: left;
+	border: 0;
+}
+
+.copyright{
+	width:80%;
+}
+
+.bottom{
+		color: black;
+		background-color: white;
+		width:100%;
+}
+
+.footer{
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:auto;   /* Height of the footer */
+	background-color:#ff99ff;
+
+}
